@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/crypto-manager/static/css/main.540cf64f.css",
+    "main.css": "/crypto-manager/static/css/main.58761e85.css",
     "main.js": "/crypto-manager/static/js/main.791d5987.js",
     "static/js/787.b25d9bc5.chunk.js": "/crypto-manager/static/js/787.b25d9bc5.chunk.js",
     "index.html": "/crypto-manager/index.html",
-    "main.540cf64f.css.map": "/crypto-manager/static/css/main.540cf64f.css.map",
+    "main.58761e85.css.map": "/crypto-manager/static/css/main.58761e85.css.map",
     "main.791d5987.js.map": "/crypto-manager/static/js/main.791d5987.js.map",
     "787.b25d9bc5.chunk.js.map": "/crypto-manager/static/js/787.b25d9bc5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.540cf64f.css",
+    "static/css/main.58761e85.css",
     "static/js/main.791d5987.js"
   ]
 }
