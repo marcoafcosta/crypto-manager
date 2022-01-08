@@ -11,7 +11,7 @@ table {
     padding: 0;
     width: 100%;
     table-layout: fixed;
-    color: #fff;
+    color: rgb(68, 68, 68);
   }
   
   table tr {
