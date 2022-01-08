@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/crypto-manager/static/css/main.e46530e5.css",
+    "main.js": "/crypto-manager/static/js/main.50e46fc6.js",
+    "static/js/787.b25d9bc5.chunk.js": "/crypto-manager/static/js/787.b25d9bc5.chunk.js",
+    "index.html": "/crypto-manager/index.html",
+    "main.e46530e5.css.map": "/crypto-manager/static/css/main.e46530e5.css.map",
+    "main.50e46fc6.js.map": "/crypto-manager/static/js/main.50e46fc6.js.map",
+    "787.b25d9bc5.chunk.js.map": "/crypto-manager/static/js/787.b25d9bc5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e46530e5.css",
+    "static/js/main.50e46fc6.js"
+  ]
+}
