@@ -1,6 +1,23 @@
-# Getting Started with Create React App
+# Crypto Manager
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+## Project Goal
+
+Create a SPA where a user can connect to a crypto exchange, keep track of prices and buy & sell crypto
+
+### Roadmap
+
+1. Create react app and track prices - Complete
+2. Deploy app and run on github page - Complete
+3. Change main page to a portal style
+4. Add menus
+5. Create private routes and user pages
+6. Create login & authentication
+7. Connect to test exchange
+8. Create bot to automate buy & sell
+
 
 ## Available Scripts
 
